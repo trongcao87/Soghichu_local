@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Ghi Chú Công Việc",
+  "description": "Ứng dụng quản lý công việc cá nhân hoạt động offline với tính năng sao lưu JSON, tìm kiếm nhanh và tùy chỉnh màu sắc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
